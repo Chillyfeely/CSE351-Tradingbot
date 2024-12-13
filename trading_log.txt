@@ -1,0 +1,20 @@
+========[2024-12-13 17:49:14]========
+Latest market data:
+OPEN: 3929.26
+CLOSE: 3928.96
+HIGH: 3930.12
+LOW: 3924.66
+VOLUME: 901.9278
+Strategy is MomentumStrategy
+Decision: SELL
+========[2024-12-13 17:49:14]========
+========[2024-12-13 17:54:20]========
+Latest market data:
+OPEN: 3928.39
+CLOSE: 3943.61
+HIGH: 3944.23
+LOW: 3922.62
+VOLUME: 1582.5878
+Strategy is MomentumStrategy
+Decision: BUY
+========[2024-12-13 17:54:20]========

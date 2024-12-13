@@ -1,0 +1,5 @@
+.env
+svm_model_training
+__pycache__/*
+__pycache__
+*.pyc
